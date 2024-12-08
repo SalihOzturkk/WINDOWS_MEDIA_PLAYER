@@ -1,0 +1,14 @@
+c:\users\user\Desktop\24-12-03 Windows_Media_Player\24-12-03 Windows_Media_Player\bin\Debug\24-12-03 Windows_Media_Player.exe.config
+c:\users\user\Desktop\24-12-03 Windows_Media_Player\24-12-03 Windows_Media_Player\bin\Debug\24-12-03 Windows_Media_Player.exe
+c:\users\user\Desktop\24-12-03 Windows_Media_Player\24-12-03 Windows_Media_Player\bin\Debug\24-12-03 Windows_Media_Player.pdb
+c:\users\user\Desktop\24-12-03 Windows_Media_Player\24-12-03 Windows_Media_Player\obj\Debug\24-12-03 Windows_Media_Player.csprojResolveAssemblyReference.cache
+c:\users\user\Desktop\24-12-03 Windows_Media_Player\24-12-03 Windows_Media_Player\obj\Debug\_24_12_03_Windows_Media_Player.Form1.resources
+c:\users\user\Desktop\24-12-03 Windows_Media_Player\24-12-03 Windows_Media_Player\obj\Debug\_24_12_03_Windows_Media_Player.Properties.Resources.resources
+c:\users\user\Desktop\24-12-03 Windows_Media_Player\24-12-03 Windows_Media_Player\obj\Debug\24-12-03 Windows_Media_Player.csproj.GenerateResource.Cache
+c:\users\user\Desktop\24-12-03 Windows_Media_Player\24-12-03 Windows_Media_Player\obj\Debug\24-12-03 Windows_Media_Player.exe
+c:\users\user\Desktop\24-12-03 Windows_Media_Player\24-12-03 Windows_Media_Player\obj\Debug\24-12-03 Windows_Media_Player.pdb
+c:\users\user\Desktop\24-12-03 Windows_Media_Player\24-12-03 Windows_Media_Player\bin\Debug\Interop.WMPLib.dll
+c:\users\user\Desktop\24-12-03 Windows_Media_Player\24-12-03 Windows_Media_Player\bin\Debug\AxInterop.WMPLib.dll
+c:\users\user\Desktop\24-12-03 Windows_Media_Player\24-12-03 Windows_Media_Player\obj\Debug\Interop.WMPLib.dll
+c:\users\user\Desktop\24-12-03 Windows_Media_Player\24-12-03 Windows_Media_Player\obj\Debug\AxInterop.WMPLib.dll
+c:\users\user\Desktop\24-12-03 Windows_Media_Player\24-12-03 Windows_Media_Player\obj\Debug\24-12-03 Windows_Media_Player.csproj.ResolveComReference.cache
